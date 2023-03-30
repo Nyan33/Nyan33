@@ -3,8 +3,8 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- YOUTUBE-POST-LIST:START -->
-<!-- YOUTUBE-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0B1216?style=for-the-badge&logo=JavaScript)
