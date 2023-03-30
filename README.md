@@ -5,6 +5,8 @@
 Latest YouTube Videos
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0B1216?style=for-the-badge&logo=JavaScript)
+![Haxe](https://img.shields.io/badge/-Haxe-0B1216?style=for-the-badge&logo=Haxe)
+![HTML](https://img.shields.io/badge/-HTML-0B1216?style=for-the-badge&logo=HTML5)
 
 Follow me
