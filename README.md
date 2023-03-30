@@ -16,3 +16,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-0B1216?style=for-the-badge&logo=Twitter)](https://twitter.com/NyanBunBun1)
 [![Steam](https://img.shields.io/badge/-Steam-0B1216?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/nyanbun/)
 [![VK](https://img.shields.io/badge/-Vkontakte-0B1216?style=for-the-badge&logo=Vk&logoColor=1195F5)](https://vk.com/nyanbus)
+
+##### Collaboration with Hoprik? Sounds interesting...
