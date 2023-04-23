@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CTPswQAQUic"><img width="140px" src="https://i.ytimg.com/vi/CTPswQAQUic/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=l4RUfsrO7-o"><img width="140px" src="https://i.ytimg.com/vi/l4RUfsrO7-o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=l4RUfsrO7-o">Triple Trouble: Yamixed | Xeno Part 1</a><br/>Apr 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CTPswQAQUic"><img width="140px" src="https://i.ytimg.com/vi/CTPswQAQUic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CTPswQAQUic">FNF: Vs Impostor V4 - Defeat Remix Teaser</a><br/>Apr 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cxtIpWoFQUU"><img width="140px" src="https://i.ytimg.com/vi/cxtIpWoFQUU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cxtIpWoFQUU">FNF Vs Sonic.EXE: ReRun - Third Party V2 Remix Teaser</a><br/>Mar 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XKEv_9Y0SXU"><img width="140px" src="https://i.ytimg.com/vi/XKEv_9Y0SXU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XKEv_9Y0SXU">Palmtree Panic &quot;P&quot; remix</a><br/>Jan 31, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
