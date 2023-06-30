@@ -7,8 +7,8 @@
 <td><a href="https://www.youtube.com/watch?v=6hkwrqZVB1I">Defeat Yamix - Friday Night Funkin&#39;: Vs. Impostor V4</a><br/>Jun 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=l4RUfsrO7-o"><img width="140px" src="https://i.ytimg.com/vi/l4RUfsrO7-o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l4RUfsrO7-o">Triple Trouble: Yamixed | Xeno Part 1</a><br/>Apr 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CTPswQAQUic"><img width="140px" src="https://i.ytimg.com/vi/CTPswQAQUic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CTPswQAQUic">FNF: Vs Impostor V4 - Defeat Remix Teaser</a><br/>Apr 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cxtIpWoFQUU"><img width="140px" src="https://i.ytimg.com/vi/cxtIpWoFQUU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cxtIpWoFQUU">FNF Vs Sonic.EXE: ReRun - Third Party V2 Remix Teaser</a><br/>Mar 30, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
