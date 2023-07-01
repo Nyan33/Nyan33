@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6hkwrqZVB1I"><img width="140px" src="https://i.ytimg.com/vi/6hkwrqZVB1I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6hkwrqZVB1I">Defeat Yamix - Friday Night Funkin&#39;: Vs. Impostor V4</a><br/>Jun 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=l4RUfsrO7-o"><img width="140px" src="https://i.ytimg.com/vi/l4RUfsrO7-o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=l4RUfsrO7-o">Triple Trouble: Yamixed | Xeno Part 1</a><br/>Apr 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cxtIpWoFQUU"><img width="140px" src="https://i.ytimg.com/vi/cxtIpWoFQUU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cxtIpWoFQUU">FNF Vs Sonic.EXE: ReRun - Third Party V2 Remix Teaser</a><br/>Mar 30, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PKtrBbQmLNw"><img width="140px" src="https://i.ytimg.com/vi/PKtrBbQmLNw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PKtrBbQmLNw">You Can&#39;t Run DLL Mix Snippet - Friday Night Funkin: Vivid Eden &lpar;DLC 1&rpar;</a><br/>Jun 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=R32Tlwz_6uo"><img width="140px" src="https://i.ytimg.com/vi/R32Tlwz_6uo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=R32Tlwz_6uo">Her World Remix V2 - Vs. SONIC.EXE V2.5/V3/Subcortex &lpar;UNFINISHED AND CANCELLED&rpar;</a><br/>Jun 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=o8a5iyfkEn4"><img width="140px" src="https://i.ytimg.com/vi/o8a5iyfkEn4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o8a5iyfkEn4">Gotta Go Remix - Vs. SONIC.EXE V2.5/V3/Subcortex &lpar;OLD AND CANCELLED&rpar;</a><br/>Jun 30, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
