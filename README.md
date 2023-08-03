@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DdF4pMYV9rc"><img width="140px" src="https://i.ytimg.com/vi/DdF4pMYV9rc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=k7z8SewLH6E"><img width="140px" src="https://i.ytimg.com/vi/k7z8SewLH6E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=k7z8SewLH6E">Perdition&lpar;Disciplinary Mix&rpar; - Vs. Sonic.EXE 3.0/Parallax/DareDevil Inc UST</a><br/>Aug 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DdF4pMYV9rc"><img width="140px" src="https://i.ytimg.com/vi/DdF4pMYV9rc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DdF4pMYV9rc">Triple Trouble REMIX WIP 4/Teaser Mix - Vs. Sonic.EXE 3.0 UST &lpar;CANCELLED&rpar;</a><br/>Aug 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uqAbQOuo-4g"><img width="140px" src="https://i.ytimg.com/vi/uqAbQOuo-4g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uqAbQOuo-4g">Fresh Yamix - Friday Night Funkin&#39;</a><br/>Jul 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CoXnoapwWBE"><img width="140px" src="https://i.ytimg.com/vi/CoXnoapwWBE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CoXnoapwWBE">Bifurcation &lpar;Yanami Mix&rpar; - Friday Night Funkin&#39;: Vs. Pumpkin King &lpar;SCRAPPED&rpar;</a><br/>Jul 1, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
