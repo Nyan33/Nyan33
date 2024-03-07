@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MLjdXIdJs-w"><img width="140px" src="https://i.ytimg.com/vi/MLjdXIdJs-w/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BziWRRM6DFg"><img width="140px" src="https://i.ytimg.com/vi/BziWRRM6DFg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BziWRRM6DFg">Sprite Test - Very Original Sonic.EXE Mod</a><br/>Mar 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MLjdXIdJs-w"><img width="140px" src="https://i.ytimg.com/vi/MLjdXIdJs-w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MLjdXIdJs-w">Fox Hunt/Too Slow&lpar;Uptaunt Mix&rpar; FAN FINISHED - Vs. Sonic.EXE 3.0 UST &lpar;+FLP&rpar;</a><br/>Feb 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nBw5sqTbHS0"><img width="140px" src="https://i.ytimg.com/vi/nBw5sqTbHS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nBw5sqTbHS0">Little Horror Show Cover</a><br/>Feb 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nlPekUuOVLw"><img width="140px" src="https://i.ytimg.com/vi/nlPekUuOVLw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nlPekUuOVLw">Hide and Seek V2 little doodle</a><br/>Feb 25, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
