@@ -3,7 +3,9 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VaKx4Rb0Oh8"><img width="140px" src="https://i.ytimg.com/vi/VaKx4Rb0Oh8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HoPCBJjd8BM"><img width="140px" src="https://i.ytimg.com/vi/HoPCBJjd8BM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HoPCBJjd8BM">FNF S-SIDES TRICKEY LEAK</a><br/>Apr 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VaKx4Rb0Oh8"><img width="140px" src="https://i.ytimg.com/vi/VaKx4Rb0Oh8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VaKx4Rb0Oh8">Three Night&#39;s at Crypto Demo Showcase</a><br/>Jan 20, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
