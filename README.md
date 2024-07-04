@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HoPCBJjd8BM"><img width="140px" src="https://i.ytimg.com/vi/HoPCBJjd8BM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xLKoVhTDY_c"><img width="140px" src="https://i.ytimg.com/vi/xLKoVhTDY_c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xLKoVhTDY_c">Friday Night Funkin&#39;: Vivid Eden &lpar;Demo&rpar; - Eon teaser #music #flstudio #fnf #fnfmod #fnfmods</a><br/>Jul 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HoPCBJjd8BM"><img width="140px" src="https://i.ytimg.com/vi/HoPCBJjd8BM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HoPCBJjd8BM">FNF S-SIDES TRICKEY LEAK</a><br/>Apr 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BziWRRM6DFg"><img width="140px" src="https://i.ytimg.com/vi/BziWRRM6DFg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BziWRRM6DFg">Sprite Test - Very Original Sonic.EXE Mod</a><br/>Mar 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MLjdXIdJs-w"><img width="140px" src="https://i.ytimg.com/vi/MLjdXIdJs-w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MLjdXIdJs-w">Fox Hunt/Too Slow&lpar;Uptaunt Mix&rpar; FAN FINISHED - Vs. Sonic.EXE 3.0 UST &lpar;+FLP&rpar;</a><br/>Feb 27, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
