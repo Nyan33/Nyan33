@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sgvdVRltZNA"><img width="140px" src="https://i.ytimg.com/vi/sgvdVRltZNA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=npVj5jGso7I"><img width="140px" src="https://i.ytimg.com/vi/npVj5jGso7I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=npVj5jGso7I">&lpar;+FLP&rpar; Eon - FNF: Vivid Eden</a><br/>Jul 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sgvdVRltZNA"><img width="140px" src="https://i.ytimg.com/vi/sgvdVRltZNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sgvdVRltZNA">Sonshitsu - No More Innocence fnf fan song teaser #music #fnf #sonic #fridaynightfunkin</a><br/>Jul 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xLKoVhTDY_c"><img width="140px" src="https://i.ytimg.com/vi/xLKoVhTDY_c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xLKoVhTDY_c">Friday Night Funkin&#39;: Vivid Eden &lpar;Demo&rpar; - Eon teaser #music #flstudio #fnf #fnfmod #fnfmods</a><br/>Jul 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HoPCBJjd8BM"><img width="140px" src="https://i.ytimg.com/vi/HoPCBJjd8BM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HoPCBJjd8BM">FNF S-SIDES TRICKEY LEAK</a><br/>Apr 1, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
