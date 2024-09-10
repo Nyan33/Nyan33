@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rCq3LG6Utqc"><img width="140px" src="https://i.ytimg.com/vi/rCq3LG6Utqc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=diymXbqXzko"><img width="140px" src="https://i.ytimg.com/vi/diymXbqXzko/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=diymXbqXzko">FNF: Hypnos Lullaby V3 - Hexed&lpar;Retake&rpar; teaser #music #fnf #hypnoslullaby #hex</a><br/>Sep 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rCq3LG6Utqc"><img width="140px" src="https://i.ytimg.com/vi/rCq3LG6Utqc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rCq3LG6Utqc">&lpar;CANCELLED&rpar; X-Treme &lpar;Triple Trouble Remix/Tokified&rpar; - Vs. Sonic.EXE 3.0 UST</a><br/>Aug 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LdTqQQPzYHU"><img width="140px" src="https://i.ytimg.com/vi/LdTqQQPzYHU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LdTqQQPzYHU">Eon - FNF: Vivid Eden Teaser #music #fnf #fnfmod #fridaynightfunkin</a><br/>Jul 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=npVj5jGso7I"><img width="140px" src="https://i.ytimg.com/vi/npVj5jGso7I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=npVj5jGso7I">&lpar;+FLP&rpar; Eon - FNF: Vivid Eden</a><br/>Jul 25, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
