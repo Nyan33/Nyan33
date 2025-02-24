@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AkAksG8lsOE"><img width="140px" src="https://i.ytimg.com/vi/AkAksG8lsOE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1TwaU3bagt8"><img width="140px" src="https://i.ytimg.com/vi/1TwaU3bagt8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1TwaU3bagt8">&lpar;+FLP&rpar; Inhospitality - FNF: Souls in Mirrors</a><br/>Feb 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=d4Rs-KluKS8"><img width="140px" src="https://i.ytimg.com/vi/d4Rs-KluKS8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=d4Rs-KluKS8">Inhospitality - FNF: Souls in Mirrors Teaser #music #fnf #fnfmod #fridaynightfunkin</a><br/>Feb 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AkAksG8lsOE"><img width="140px" src="https://i.ytimg.com/vi/AkAksG8lsOE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AkAksG8lsOE">OLD NEW FRIEND #fnf #fnfmod #fridaynightfunkin #vssonic</a><br/>Oct 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HMqwxOd79IE"><img width="140px" src="https://i.ytimg.com/vi/HMqwxOd79IE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HMqwxOd79IE">OLD NEW FRIEND &lpar;VS: Sonic.EXE @Cto-to_YT fan song visualizer&rpar;</a><br/>Oct 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=diymXbqXzko"><img width="140px" src="https://i.ytimg.com/vi/diymXbqXzko/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=diymXbqXzko">FNF: Hypnos Lullaby V3 - Hexed&lpar;Retake&rpar; teaser #music #fnf #hypnoslullaby #hex</a><br/>Sep 9, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
