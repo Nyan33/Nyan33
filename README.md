@@ -13,9 +13,9 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-0B1216?style=for-the-badge&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-0B1216?style=for-the-badge&logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0B1216?style=for-the-badge&logo=JavaScript)
 ![Haxe](https://img.shields.io/badge/-Haxe-0B1216?style=for-the-badge&logo=Haxe)
-![HTML](https://img.shields.io/badge/-HTML-0B1216?style=for-the-badge&logo=HTML5)
 
 ### Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-0B1216?style=for-the-badge&logo=YouTube&logoColor=FF0038)](https://www.youtube.com/channel/UCV-am5JX65zCBZZCsX4Fm2w)
