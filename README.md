@@ -18,4 +18,4 @@
 
 ### Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-0B1216?style=for-the-badge&logo=YouTube&logoColor=FF0038)](https://www.youtube.com/channel/UCV-am5JX65zCBZZCsX4Fm2w)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/NyanBunBun1)
+[![X](https://img.shields.io/badge/X-0B1216?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/NyanBunBun1)
