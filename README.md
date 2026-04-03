@@ -3,12 +3,12 @@
 ## I am a novice programmer and musician
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/TcvqSEkK0ww"><img width="140px" src="https://i.ytimg.com/vi/TcvqSEkK0ww/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XgMAr2lEP7A"><img width="140px" src="https://i.ytimg.com/vi/XgMAr2lEP7A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XgMAr2lEP7A">Too Slow Remix | FNF Toki-Sidez!</a><br/>Apr 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/TcvqSEkK0ww"><img width="140px" src="https://i.ytimg.com/vi/TcvqSEkK0ww/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/TcvqSEkK0ww">Final Escape #fnf #fnfmod #vssonicexe #sonicexe #music</a><br/>Oct 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0iwwPxJ-HII"><img width="140px" src="https://i.ytimg.com/vi/0iwwPxJ-HII/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0iwwPxJ-HII">&lpar;+FLP&rpar; Recess &lpar;Unfinished WIPs&rpar; - FNF: Vivid Eden</a><br/>Jul 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7VZL1JJNN5c"><img width="140px" src="https://i.ytimg.com/vi/7VZL1JJNN5c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7VZL1JJNN5c">[APRIL FOOLS!] Eon V2 - FNF: Vivid Eden &lpar;Ft. @puf10r&rpar;</a><br/>Apr 1, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
